@@ -20,24 +20,3 @@
     transition: all 0.3s ease;
 }
 
-
-.product-card:hover {
-    box-shadow: 0 0 15px rgba(0, 128, 0, 0.5);
-    transform: scale(1.03);
-}
-
-.product-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 4px;
-}
-
-.product-card h2 {
-    font-size: 1rem;
-    margin: 10px 0 5px;
-}
-
-.product-card p {
-    font-weight: bold;
-    margin: 0;
-}
